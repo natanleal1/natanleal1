@@ -1,6 +1,6 @@
 ### Hello World, eu sou Natan Leal! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programação começou com o objetivo de criar soluções eficientes e impactantes. Atualmente, estou focado em aprimorar minhas habilidades e aplicar meus conhecimentos para resolver problemas complexos.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programação se extende desde soluções Front-end até o back-end, embora ame, também, a área da IA. Atualmente, estou focado em aprimorar minhas habilidades e aplicar meus conhecimentos para resolver problemas... mas não quaisquer problemas, mas sim problemas complexos, hehe!!!
 
 ---
 
