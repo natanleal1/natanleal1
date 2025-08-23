@@ -6,10 +6,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na pr
 
 #### 🚀 Habilidades
 
-* **Linguagens de Programação:** JavaScript (ES6+) e suas tecnologias, Python
-* **Outras Ferramentas:** Git, Github, Pandas ...
+* **Linguagens de Programação:** JavaScript (ES6+) e suas tecnologias, Python, ...👀
+* **Outras Ferramentas:** Git, Github, Pandas ... 👀
 * **Estilização:** CSS3
-* **Áreas de Interesse:** Desenvolvimento Full-Stack e Inteligência Artificial (IA) 
+* **Áreas de Interesse:** Desenvolvimento de Sistemas Full-Stack e Inteligência Artificial (IA) 
 
 ---
 
